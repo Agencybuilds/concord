@@ -1,6 +1,7 @@
 {
   "name": "concord",
   "private": true,
+  "license": "MIT",
   "description": "Reconciliation between tokenized securities on Stellar and the official register.",
   "engines": {
     "node": ">=24",
