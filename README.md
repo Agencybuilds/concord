@@ -13,6 +13,7 @@ private workspace per organisation. It has been exercised against Stellar mainne
 Franklin Templeton's BENJI, Concord's unit total matched Horizon's own figure to the last decimal,
 and a register built from the chain's holdings reconciled clean across all 1,005 positions. No
 customer has used it. The product brief and kill criteria are in [`BRIEF.md`](./BRIEF.md).
+Answers to common questions are in [`docs/FAQ.md`](./docs/FAQ.md).
 
 ## Run it
 
@@ -204,8 +205,9 @@ software: per asset and per seat.
 ## Contributing
 
 Contributions are welcome. Start with [`CONTRIBUTING.md`](./CONTRIBUTING.md) for setup and the
-rules that matter, and [`docs/ARCHITECTURE.md`](./docs/ARCHITECTURE.md) for how the code fits
-together. Report security problems privately, as described in [`SECURITY.md`](./SECURITY.md).
+rules that matter, [`docs/ARCHITECTURE.md`](./docs/ARCHITECTURE.md) for how the code fits
+together, and [`docs/FAQ.md`](./docs/FAQ.md) for frequently asked questions. Report security
+problems privately, as described in [`SECURITY.md`](./SECURITY.md).
 Everyone taking part is expected to follow the [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 ## License
