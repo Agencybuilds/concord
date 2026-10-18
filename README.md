@@ -204,8 +204,9 @@ software: per asset and per seat.
 ## Contributing
 
 Contributions are welcome. Start with [`CONTRIBUTING.md`](./CONTRIBUTING.md) for setup and the
-rules that matter, and [`docs/ARCHITECTURE.md`](./docs/ARCHITECTURE.md) for how the code fits
-together. Report security problems privately, as described in [`SECURITY.md`](./SECURITY.md).
+rules that matter, [`docs/ARCHITECTURE.md`](./docs/ARCHITECTURE.md) for how the code fits
+together, and architectural decision records such as [`docs/adr/0005-hash-routing-same-origin.md`](./docs/adr/0005-hash-routing-same-origin.md).
+Report security problems privately, as described in [`SECURITY.md`](./SECURITY.md).
 Everyone taking part is expected to follow the [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 ## License
